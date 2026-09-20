@@ -25,21 +25,19 @@ const handwriting = Caveat({
 
 const images = [
   "/ref/girl323.jpeg",
-  "/ref/girl3.jpg",
+  "/ref/a5.jpeg",
   "/ref/w2.jpeg",
   "/ref/girl5.jpg",
   "/ref/girl19.jpg",
-  "/ref/girl33.jpg",
+  "/ref/a7.jpeg",
   "/ref/girl8.jpg",
-  "/ref/girl9.jpg",
-  "/ref/girl17.jpg",
+  "/ref/a8.jpeg",
   "/ref/girl1.jpg",
-  "/ref/girl10.jpg",
-  "/ref/rr.jpeg",
+  "/ref/a6.jpeg",
+  "/ref/a13.jpeg",
   "/ref/g1.jpeg",
   "/ref/g2.jpeg",
-  "/ref/g3.jpg",
-  "/ref/g5.jpg",
+  "/ref/a18.jpeg",
 ];
 
 const captions = [
@@ -50,7 +48,6 @@ const captions = [
   "Rare. 🪻",
   "Angel 🪽",
   "Favourite. 🫶🏻",
-  "Dream Girl 💫",
   "Sunlit. ☀️",
   "Stolen. 📸",
   "Moonlit. 🌙",
@@ -58,7 +55,6 @@ const captions = [
   "Caught. 📸",
   "No Comment. 🤐",
   "Pretty Problem. 😭🌷",
-  "Still Cute. 🙄🌸",
 ];
 
 const positions = [
@@ -139,7 +135,7 @@ export default function LoveGallery() {
                 drop-shadow-md
               "
             >
-              ❤️
+              💗
             </div>
 
             <p

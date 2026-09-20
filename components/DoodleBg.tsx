@@ -158,11 +158,12 @@ const PHOTO_SOURCES = [
   "/ref/girl.jpeg",
   "/ref/girl33.jpg",
   "/ref/girl25.jpeg",
-  "/ref/girl5.jpg",
+  "/ref/a2.jpeg",
   "/ref/w1.jpeg",
-  "/ref/w2.jpeg",
+  "/ref/a6.jpeg",
   "/ref/girl10.jpg",
   "/ref/girl108.jpg",
+  "/ref/a1.jpeg",
 ];
 
 type PhotoProps = { src: string; top: string; left: string; size: number; rotate: number; delay: number };
