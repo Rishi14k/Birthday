@@ -34,6 +34,12 @@ const images = [
   "/ref/girl9.jpg",
   "/ref/girl17.jpg",
   "/ref/girl1.jpg",
+  "/ref/girl10.jpg",
+  "/ref/rr.jpeg",
+  "/ref/g1.jpeg",
+  "/ref/g2.jpeg",
+  "/ref/g3.jpg",
+  "/ref/g5.jpg",
 ];
 
 const captions = [
@@ -47,6 +53,12 @@ const captions = [
   "Dream Girl 💫",
   "Sunlit. ☀️",
   "Stolen. 📸",
+  "Moonlit. 🌙",
+  "Dazzle. 💫",
+  "Caught. 📸",
+  "No Comment. 🤐",
+  "Pretty Problem. 😭🌷",
+  "Still Cute. 🙄🌸",
 ];
 
 const positions = [
